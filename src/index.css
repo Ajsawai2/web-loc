@@ -8,10 +8,9 @@ body {
 }
 
 .me {
-  z-index: -1;
+
   position: fixed;
-  width: 100%;
-  background-size: cover;
+
 }
 
 .container {
